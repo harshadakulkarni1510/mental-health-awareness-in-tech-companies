@@ -1,4 +1,4 @@
-# mental-health-data-analysis-in-tech-companies
+# mental-health-awareness-in-tech-companies
 Data Analysis using Python and machine learning techniques in Jupyter notebook to explore the dataset and uncover interesting trends & insights regarding the awareness of employees' mental health in tech companies 
 
 
